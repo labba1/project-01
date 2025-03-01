@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style> 
+            body {
+                   background-color: rgb(165, 139, 94);font-size: 20px;
+                 }
+        </style>
+
+        <title>Leonardo Dicaprio</title>
+
+        <link rel="icon" href="" type="image/jpg" >
+
+<h1> <div style="background-color:rgb(183, 184, 179);"> Leonardo Dicaprio </div>  </h1> 
+
+    </head>
+
+    <body>
+
+        <img src="leo2.jpg" height="400" width="300" alt="this is Leonardo Dicaprio " >   <img src="leo.jpg" height="400" width="300" alt="this is Leonardo Dicaprio " >      <img src="leo1.jpg" height="400" width="300" alt="this is Leonardo Dicaprio ">  <img src="leo3.jpg" height="400" width="300" alt="this is Leonardo Dicaprio "> 
+        <br>
+<p><strong>Leonardo Dicaprio </strong> : is an American actor and film producer. Known for his work in biographical and period films. </p>
+<br>
+<h2><spam style="background-color:rgb(137, 139, 141);" >  Biography of Dicaprio  </spam>  </h2>
+<br>
+<p> Leonardo Dicaprio  was born November 11, 1974, Los Angeles, California, U.S.He is an American actor and producer who emerged in the 1990s as one of Hollywood’s leading performers, noted for his portrayals of unconventional and complex characters.DiCaprio first acted at age five, performing on the children’s television show Romper Room, and, as a teenager, he made numerous commercials and educational films. In 1990 he began appearing on a series of television shows, including The New Lassie and Roseanne, and in 1991 he was cast in a recurring role on Growing Pains. That year DiCaprio also made his big-screen debut in Critters 3, a low-budget horror film.</p>
+
+<p> DiCaprio began appearing in television commercials as a young child, though he didn’t have much success in Hollywood until he reached his early teens. For years, he had trouble landing an agent. One agent even recommended DiCaprio change his name to Lenny Williams to improve his appeal, saying his birth name was “too ethnic.” DiCaprio considered quitting acting after failing to find work despite multiple auditions, but his father encouraged him to keep at it.</p><br>
+
+
+<h2> <spam style="background-color: grey;"> Popular Movies </spam></h2>
+
+<ol>
+    <li>Titanic </li>    
+    
+    <li>The Wolf of Wall Street</li> 
+
+    <li>Inception  (2016)</li>
+    
+    <li>The Revenant </li>
+   
+    <li>Catch Me If You Can  </li>
+   
+    <li>Shutter Island</li>
+<br>
+    <img src="titanic1.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="dep.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="the.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="the relevant.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <br> <img src="shutt.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="inception.webp" height="250" width="250" alt="this is Leonardo Dicaprio " >   <img src="great.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " ><img src="catch.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >
+</ol>
+
+<br>
+<br>
+<h2><spam style="background-color: rgb(138, 129, 129);"> Top 10 Leonardo DiCaprio Movies </spam> </h2>
+<video  width="800" height="500" controls autoplay loop muted>
+    <source src="Leo's vid.mp4" type="video/mp4">  
+    
+</video>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        table {
+            width: 100%;
+            margin: 25px ;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Some works of Dicaprio</h1>
+    <table>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <th>popular movie</th>
+            <th>Release Date</th>
+            <th>IMDb Rating</th>
+            <th>character played</th>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>Titanic</td>
+            <td>1997</td>
+            <td>7.8</td>
+            <td>Jack Dawson</td>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>The Wolf of Wall Street</td>
+            <td>2013</td>
+            <td>8.2</td>
+            <td>Jordan Belfort</td>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>Inception</td>
+            <td>2010</td>
+            <td>8.8</td>
+            <td>Dom Cobb</td>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>The Revenant</td>
+            <td>2002</td>
+            <td>8.1</td>
+            <td>Frank Abagnale</td>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>Shutter Island</td>
+            <td>2010</td>
+            <td>8.2</td>
+            <td>Teddy Daniels</td>
+        </tr>
+        <tr align="center" style="background-color: rgb(152, 122, 53) ;">
+            <td>Django Unchained</td>
+            <td>2012</td>
+            <td>8.4</td>
+            <td>Calvin Candie</td>
+        </tr>
+    </table>
+</body>
+</html>
+</body>
+
+</html>
