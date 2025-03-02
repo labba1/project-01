@@ -44,37 +44,7 @@
    
     <li>Shutter Island</li>
 <br>
-    <img src="titanic1.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="dep.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="the.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="the relevant.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <br> <img src="shutt.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="inception.webp" height="250" width="250" alt="this is Leonardo Dicaprio " >   <img src="great.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " ><img src="catch.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >
-</ol>
 
-<br>
-<br>
-<h2><spam style="background-color: rgb(138, 129, 129);"> Top 10 Leonardo DiCaprio Movies </spam> </h2>
-<video  width="800" height="500" controls autoplay loop muted>
-    <source src="Leo's vid.mp4" type="video/mp4">  
-    
-</video>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <style>
-        table {
-            width: 100%;
-            margin: 25px ;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
     <h1>Some works of Dicaprio</h1>
@@ -122,6 +92,42 @@
             <td>Calvin Candie</td>
         </tr>
     </table>
+</body>
+
+</ol>
+
+<br>
+<br>
+<h2><spam style="background-color: rgb(138, 129, 129);"> Top 10 Leonardo DiCaprio Movies </spam> </h2>
+<video  width="800" height="500" controls autoplay loop muted>
+    <source src="Leo's vid.mp4" type="video/mp4">  
+    
+</video>
+<br>
+<br>
+<img src="titanic1.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="dep.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <img src="the.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="the relevant.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " > <br> <img src="shutt.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >  <img src="inception.webp" height="250" width="250" alt="this is Leonardo Dicaprio " >   <img src="great.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " ><img src="catch.jpg" height="250" width="250" alt="this is Leonardo Dicaprio " >
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        table {
+            width: 100%;
+            margin: 25px ;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
 </body>
 </html>
 </body>
